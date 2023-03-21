@@ -29,7 +29,7 @@ if (ScrollTrigger.isTouch !== 1) {
       scrollTrigger: {
         trigger: ".skills_wrapper",
         start: "center",
-        end: "550",
+        end: "850",
         scrub: true,
       },
     }
