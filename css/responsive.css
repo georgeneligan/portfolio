@@ -210,4 +210,7 @@
   .left {
     margin-left: 35px;
   }
+  .skills_wrapper {
+    padding-top: 0px !important;
+  }
 }
