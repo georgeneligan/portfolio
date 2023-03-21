@@ -213,4 +213,10 @@
   .skills_wrapper {
     padding-top: 0px !important;
   }
+  .technology {
+    margin-top: 0px;
+  }
+  .skills_wrapper .skills_title {
+    margin-top: -630px;
+  }
 }
