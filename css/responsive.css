@@ -217,6 +217,9 @@
     margin-top: 0px;
   }
   .skills_wrapper .skills_title {
-    margin-top: -630px;
+    margin-top: 0px;
+  }
+  .main-header {
+    height: 750px;
   }
 }
