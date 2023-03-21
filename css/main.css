@@ -86,6 +86,9 @@ h6 {
   color: white;
   font-size: 35px;
 }
+.menu_btn {
+  z-index: 200;
+}
 .mobile_navigation .menu_wrapper .menu_btn .fa-xmark {
   color: white;
   font-size: 35px;
